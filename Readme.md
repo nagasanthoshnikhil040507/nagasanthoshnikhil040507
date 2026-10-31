@@ -6,22 +6,22 @@
 
 <!-- HERO BANNER -->
 <a href="https://github.com/nagasanthoshnikhil040507">
-  <img src="./assets/header.svg" alt="Naga Santhosh Nikhil Gujjuru — Software Developer, Problem Solver, Systems Thinker" width="100%"/>
+  <img src="assets/hero/header.svg" alt="Naga Santhosh Nikhil Gujjuru — Software Developer, Problem Solver, Systems Thinker" width="100%"/>
 </a>
 
 <br/>
 
-<!-- ANIMATED TERMINAL STATUS BAR -->
-<img src="./assets/typing.svg" alt="Terminal Status" width="100%"/>
+<!-- TERMINAL STATUS BAR -->
+<img src="assets/hero/terminal-status.svg" alt="Developer Terminal Status" width="100%"/>
 
 <br/>
 
 <!-- QUICK SPECIFICATION PILLS -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Degree-B.Tech_Information_Technology-060913?style=for-the-badge&logo=academia&logoColor=00f2fe&labelColor=0c1424" alt="Degree"/>
-  <img src="https://img.shields.io/badge/CGPA-9.09_%2F_10-060913?style=for-the-badge&logo=target&logoColor=38ef7d&labelColor=0c1424" alt="CGPA"/>
-  <img src="https://img.shields.io/badge/Graduation-Class_of_2028-060913?style=for-the-badge&logo=googlecalendar&logoColor=f355da&labelColor=0c1424" alt="Graduation"/>
-  <img src="https://img.shields.io/badge/Location-India-060913?style=for-the-badge&logo=googlemaps&logoColor=ffb300&labelColor=0c1424" alt="Location"/>
+  <img src="https://img.shields.io/badge/Degree-B.Tech_Information_Technology-0c1424?style=for-the-badge&logoColor=00f2fe" alt="Degree"/>
+  <img src="https://img.shields.io/badge/CGPA-9.09_%2F_10-0c1424?style=for-the-badge&logoColor=38ef7d" alt="CGPA"/>
+  <img src="https://img.shields.io/badge/Graduation-Class_of_2028-0c1424?style=for-the-badge&logo=googlecalendar&logoColor=f355da" alt="Graduation"/>
+  <img src="https://img.shields.io/badge/Location-Vijayawada%2C_India-0c1424?style=for-the-badge&logo=googlemaps&logoColor=ffb300" alt="Location"/>
 </p>
 
 <!-- SOCIAL & CONNECTION DOCK -->
@@ -49,16 +49,16 @@
 
 </div>
 
-<p align="center"><img src="./assets/divider.svg" width="100%" alt="Divider"/></p>
+<p align="center"><img src="assets/dividers/laser-divider.svg" width="100%" alt="Section Separator"/></p>
 
 <!-- ============================================================================== -->
 <!--                        SECTION: DEVELOPER ESSENCE                              -->
 <!-- ============================================================================== -->
 
 <div align="center">
-  <h3>⚡ THE DEVELOPER MANIFESTO</h3>
+  <h3>⚡ CORE ENGINEERING FOUNDATIONS</h3>
   <p>
-    <em>"I don't just write code — I engineer high-throughput systems, deconstruct algorithmic complexity, and weave intelligence into real-time architectures."</em>
+    <em>"Engineering high-throughput systems, deconstructing algorithmic complexity, and weaving intelligence into real-time architectures."</em>
   </p>
 </div>
 
@@ -71,7 +71,7 @@
  └────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
-<p align="center"><img src="./assets/divider.svg" width="100%" alt="Divider"/></p>
+<p align="center"><img src="assets/dividers/laser-divider.svg" width="100%" alt="Section Separator"/></p>
 
 <!-- ============================================================================== -->
 <!--                    SECTION: ALGORITHMIC COMMAND CENTER                         -->
@@ -81,30 +81,30 @@
   <h2>🎯 ALGORITHMIC PROBLEM SOLVING</h2>
   <p><em>Consistency, spatial reasoning, and time complexity optimization under pressure.</em></p>
 
-  <!-- CUSTOM HIGH-IMPACT DSA DASHBOARD -->
-  <a href="https://leetcode.com/u/G_Naga_Santhosh_Nikhil/">
-    <img src="./assets/dsa-stats.svg" alt="LeetCode DSA Dashboard" width="100%"/>
+  <!-- CUSTOM HIGH-IMPACT DSA DASHBOARD (100% RELIABLE REPO ASSET) -->
+  <a href="https://leetcode.com/u/G_Naga_Santhosh_Nikhil/" target="_blank">
+    <img src="assets/stats/leetcode-dashboard.svg" alt="LeetCode DSA Dashboard — 205 Solved, 134 Easy, 70 Medium, 1 Hard, 46d Streak, 140 Active Days" width="100%"/>
   </a>
 
   <br/><br/>
 
-  <!-- LIVE DYNAMIC LEETCODE HEATMAP & CARD -->
-  <a href="https://leetcode.com/u/G_Naga_Santhosh_Nikhil/">
-    <img src="https://leetcard.jacoblin.cool/G_Naga_Santhosh_Nikhil?theme=dark&font=Source%20Code%20Pro&ext=heatmap&border=0&radius=10" alt="LeetCode Dynamic Card" width="92%"/>
+  <!-- DYNAMIC LIVE LEETCODE HEATMAP -->
+  <a href="https://leetcode.com/u/G_Naga_Santhosh_Nikhil/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/G_Naga_Santhosh_Nikhil?theme=dark&font=Source%20Code%20Pro&ext=heatmap&border=0&radius=10" alt="LeetCode Live Activity Heatmap" width="92%"/>
   </a>
 
 </div>
 
 <br/>
 
-<p align="center"><img src="./assets/divider.svg" width="100%" alt="Divider"/></p>
+<p align="center"><img src="assets/dividers/laser-divider.svg" width="100%" alt="Section Separator"/></p>
 
 <!-- ============================================================================== -->
 <!--                      SECTION: FEATURED ENGINEERING                             -->
 <!-- ============================================================================== -->
 
 <div align="center">
-  <h2>🚀 FLAGSHIP ENGINEERING PROJECTS</h2>
+  <h2>🚀 FLAGSHIP ENGINEERING SHOWCASES</h2>
   <p><em>Production-grade architectures spanning real-time media, AI vision, and multi-modal education.</em></p>
 </div>
 
@@ -112,8 +112,8 @@
 
 <!-- PROJECT 1: SyncUp -->
 <div align="center">
-  <a href="https://github.com/nagasanthoshnikhil040507/SyncUp">
-    <img src="./assets/project-syncup.svg" alt="SyncUp Project Card" width="100%"/>
+  <a href="https://github.com/nagasanthoshnikhil040507/SyncUp" target="_blank">
+    <img src="assets/projects/project-syncup.svg" alt="SyncUp Project Card — Real-Time Collaboration & AI Workspace" width="100%"/>
   </a>
 </div>
 
@@ -128,7 +128,7 @@
 - **Enterprise Security**: Dual JWT access/refresh token rotation with workspace-isolated role-based access control.
 
 <div align="center">
-  <a href="https://github.com/nagasanthoshnikhil040507/SyncUp">
+  <a href="https://github.com/nagasanthoshnikhil040507/SyncUp" target="_blank">
     <img src="https://img.shields.io/badge/View_SyncUp_Repository-00f2fe?style=for-the-badge&logo=github&logoColor=black" alt="SyncUp Repo"/>
   </a>
 </div>
@@ -138,8 +138,8 @@
 
 <!-- PROJECT 2: Civic Intelligence Platform -->
 <div align="center">
-  <a href="https://github.com/nagasanthoshnikhil040507/Civic-Intelligence-Platform">
-    <img src="./assets/project-civic.svg" alt="Civic Intelligence Platform Card" width="100%"/>
+  <a href="https://github.com/nagasanthoshnikhil040507/Civic-Intelligence-Platform" target="_blank">
+    <img src="assets/projects/project-civic.svg" alt="Civic Intelligence Platform Card — AI Grievance Management" width="100%"/>
   </a>
 </div>
 
@@ -153,7 +153,7 @@
 - **Dynamic Routing Engine**: Workload-balanced automated officer dispatch with automated escalation workflows.
 
 <div align="center">
-  <a href="https://github.com/nagasanthoshnikhil040507/Civic-Intelligence-Platform">
+  <a href="https://github.com/nagasanthoshnikhil040507/Civic-Intelligence-Platform" target="_blank">
     <img src="https://img.shields.io/badge/View_Civic_Platform_Repository-38ef7d?style=for-the-badge&logo=github&logoColor=black" alt="Civic Repo"/>
   </a>
 </div>
@@ -163,8 +163,8 @@
 
 <!-- PROJECT 3: SALA -->
 <div align="center">
-  <a href="https://github.com/nandakishore7054/sala-ai-learning-platform">
-    <img src="./assets/project-sala.svg" alt="SALA Project Card" width="100%"/>
+  <a href="https://github.com/nandakishore7054/sala-ai-learning-platform" target="_blank">
+    <img src="assets/projects/project-sala.svg" alt="SALA Project Card — Smart Adaptive Learning Assistant" width="100%"/>
   </a>
 </div>
 
@@ -178,7 +178,7 @@
 - **Educator Intelligence**: Real-time analytical dashboard built with **Recharts** tracking cohort retention and engagement curves.
 
 <div align="center">
-  <a href="https://github.com/nandakishore7054/sala-ai-learning-platform">
+  <a href="https://github.com/nandakishore7054/sala-ai-learning-platform" target="_blank">
     <img src="https://img.shields.io/badge/View_SALA_Repository-f355da?style=for-the-badge&logo=github&logoColor=white" alt="SALA Repo"/>
   </a>
 </div>
@@ -186,7 +186,7 @@
 
 <br/>
 
-<p align="center"><img src="./assets/divider.svg" width="100%" alt="Divider"/></p>
+<p align="center"><img src="assets/dividers/laser-divider.svg" width="100%" alt="Section Separator"/></p>
 
 <!-- ============================================================================== -->
 <!--                        SECTION: TECHNICAL ARSENAL                              -->
@@ -239,9 +239,9 @@
     <img src="https://img.shields.io/badge/INTELLIGENT_SYSTEMS_&_GEN--AI-0c1424?style=flat-square&logoColor=f355da" alt="AI Label"/>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Groq_LLM_APIs-F55036?style=for-the-badge&logo=groq&logoColor=white" alt="Groq"/>
+    <img src="https://img.shields.io/badge/Groq_LLM_APIs-F55036?style=for-the-badge&logoColor=white" alt="Groq"/>
     <img src="https://img.shields.io/badge/Google_Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
-    <img src="https://img.shields.io/badge/RAG_Pipelines-00f2fe?style=for-the-badge&logo=databricks&logoColor=black" alt="RAG"/>
+    <img src="https://img.shields.io/badge/RAG_Pipelines-00f2fe?style=for-the-badge&logoColor=black" alt="RAG"/>
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
   </p>
 
@@ -259,7 +259,7 @@
 
 <br/>
 
-<p align="center"><img src="./assets/divider.svg" width="100%" alt="Divider"/></p>
+<p align="center"><img src="assets/dividers/laser-divider.svg" width="100%" alt="Section Separator"/></p>
 
 <!-- ============================================================================== -->
 <!--                     SECTION: EXPERIENCE & HONORS                               -->
@@ -284,37 +284,35 @@
 
 <br/>
 
-<p align="center"><img src="./assets/divider.svg" width="100%" alt="Divider"/></p>
+<p align="center"><img src="assets/dividers/laser-divider.svg" width="100%" alt="Section Separator"/></p>
 
 <!-- ============================================================================== -->
 <!--                      SECTION: GITHUB PERFORMANCE MATRIX                        -->
 <!-- ============================================================================== -->
 
 <div align="center">
-  <h2>📊 REAL-TIME GITHUB ANALYTICS</h2>
-  <p><em>Code frequency, language velocity, and repository activity.</em></p>
+  <h2>📊 GITHUB PERFORMANCE MATRIX</h2>
+  <p><em>Production repository velocity and codebase composition telemetry.</em></p>
 
   <br/>
 
-  <a href="https://github.com/nagasanthoshnikhil040507">
-    <img src="https://github-readme-stats.vercel.app/api?username=nagasanthoshnikhil040507&show_icons=true&bg_color=060913&title_color=00f2fe&text_color=e2e8f0&icon_color=38ef7d&border_color=1f2d4d&include_all_commits=true&count_private=true" alt="GitHub Stats" height="175"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/nagasanthoshnikhil040507">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagasanthoshnikhil040507&layout=compact&bg_color=060913&title_color=00f2fe&text_color=e2e8f0&border_color=1f2d4d" alt="Top Languages" height="175"/>
+  <!-- PRIMARY RELIABLE GITHUB ANALYTICS MATRIX (REPO SVG — CANNOT BREAK OR HIT 503 LIMITS) -->
+  <a href="https://github.com/nagasanthoshnikhil040507" target="_blank">
+    <img src="assets/stats/github-stats.svg" alt="GitHub Repository Velocity & Code Architecture Matrix" width="100%"/>
   </a>
 
   <br/><br/>
 
-  <a href="https://github.com/nagasanthoshnikhil040507">
-    <img src="https://streak-stats.demolab.com/?user=nagasanthoshnikhil040507&theme=transparent&hide_border=false&border=1f2d4d&background=060913&ring=00f2fe&fire=ff4757&currStreakLabel=00f2fe&sideLabels=8892b0&dates=8892b0&currStreakNum=e2e8f0&sideNums=e2e8f0" alt="GitHub Streak" width="92%"/>
+  <!-- DYNAMIC STREAK STATS WITH FALLBACK LINK -->
+  <a href="https://github.com/nagasanthoshnikhil040507" target="_blank">
+    <img src="https://streak-stats.demolab.com/?user=nagasanthoshnikhil040507&theme=transparent&hide_border=false&border=1f2d4d&background=060913&ring=00f2fe&fire=ff4757&currStreakLabel=00f2fe&sideLabels=8892b0&dates=8892b0&currStreakNum=e2e8f0&sideNums=e2e8f0" alt="GitHub Streak Stats" width="92%"/>
   </a>
 
 </div>
 
 <br/>
 
-<p align="center"><img src="./assets/divider.svg" width="100%" alt="Divider"/></p>
+<p align="center"><img src="assets/dividers/laser-divider.svg" width="100%" alt="Section Separator"/></p>
 
 <!-- ============================================================================== -->
 <!--                        SECTION: INTERACTIVE FOOTER                             -->
